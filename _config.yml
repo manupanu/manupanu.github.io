@@ -10,9 +10,10 @@ url: "http://www.manuelanrig.ch" # the base hostname & protocol for your site
 
 author:
   fullname: Manuel Anrig
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: manupanu
+  instagram: manuelanrig
+  twitter: manupanuu
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
