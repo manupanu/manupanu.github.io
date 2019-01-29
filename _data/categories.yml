@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: fotografie
+  name: Fotografie
 
-- slug: tools
-  name: Tools
+- slug: software
+  name: Software
 
-- slug: productivity
-  name: Productivity
+- slug: hardware
+  name: Hardware
+
+- slug: blog
+  name: Blog

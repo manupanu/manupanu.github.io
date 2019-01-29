@@ -2,8 +2,12 @@
 layout: page
 title: About
 subtitle: Just who the hell you think I am?
-permalink: /about/
+permalink: /
 ---
+
+<div class="">
+    <img class="profilephoto" src="/assets/img/Manuel_Portrait_bw_1x1.jpg">
+</div>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

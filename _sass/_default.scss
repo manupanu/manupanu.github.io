@@ -245,6 +245,16 @@ strong {
     margin-top: 100px;
 }
 
+.profilephoto {
+    border-radius: 50%;
+    text-align: center;
+    border-color: grey;
+    border-width: 4px;
+    width: 250px;
+    margin-top: -50px;
+
+}
+
 @media (max-width: 800px) {
     /* =Base */
     p {
