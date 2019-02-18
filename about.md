@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Just who the hell you think I am?
+title: Über mich
+subtitle: 
 permalink: /
 ---
 
@@ -9,8 +9,23 @@ permalink: /
     <img class="profilephoto" src="/assets/img/Manuel_Portrait_bw_1x1.jpg">
 </div>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p>Mein Name ist <strong>Manuel Anrig</strong> und ich bin</p>
+
+<div id="changeText"></div>
+
+<script>
+    var text = ["Elektroniker", "Web Entwickler", "ein kleiner Nerd"];
+    var counter = 0;
+    var inst = setInterval(change, 1000);
+
+    function change() {
+        document.getElementById("changeText");.innerHTML = text[counter];
+        counter++;
+        if (counter >= text.length) {
+            counter = 0;
+            // clearInterval(inst); // uncomment this if you want to stop refreshing after one cycle
+        }
+    }
+</script>
