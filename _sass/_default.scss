@@ -2,7 +2,7 @@
 body {
     font-family: 'Inconsolata', ;
     color: $iron;
-    background-color: $dorian;
+    background-color: lightgrey;
 }
 
 a {
@@ -313,5 +313,8 @@ strong {
 
     .post-title__subtitle {
         font-size: 18px;
+    }
+    .ichbin {
+        align-content: center;
     }
 }
