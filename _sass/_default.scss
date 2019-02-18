@@ -1,4 +1,11 @@
 /* =Base */
+.ichbin {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+
 body {
     font-family: 'Inconsolata', ;
     color: $iron;
@@ -314,7 +321,5 @@ strong {
     .post-title__subtitle {
         font-size: 18px;
     }
-    .ichbin {
-        align-content: center;
-    }
+
 }
