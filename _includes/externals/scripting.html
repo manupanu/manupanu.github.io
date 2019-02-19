@@ -1,8 +1,11 @@
 <script>
     var text = ["Elektroniker", "Web-Entwickler", "Technik begeistert"];
-    var counter = 0;
     var elem = document.getElementById("changeText");
-    var inst = setInterval(change, 4000);
+    var counter = 0;
+    elem.innerHTML = "Mein Name ist <strong>Manuel Anrig</strong> und ich bin <strong> " + text[counter] + "</strong>.";
+    counter++;
+
+    var inst = setInterval(change, 2000);
     
     function change() {
       elem.innerHTML = "Mein Name ist <strong>Manuel Anrig</strong> und ich bin <strong> " + text[counter] + "</strong>.";

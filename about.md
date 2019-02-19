@@ -10,7 +10,7 @@ permalink: /
 </div>
 <p id="changeText" class="ichbin"></p>
 <p class="centertext">Ausserdem mag ich minimalismus, gute Musik, allerlei verschiedene Sportarten und Videospiele.</p>
-__________________________
+<hr>
 <h2 class="centertext">Steckbrief</h2>
 
 <table align="center">
@@ -49,12 +49,8 @@ __________________________
   </tr>
   </tr>
 </table>
-________________
-<h2 class="centertext">Kontaktformular</h2>
-<p class="centertext">Du hast ein Anliegen oder möchstest mir einfach etwas mitteilen?</p>
-<form id="contactform" action="//formspree.io/your@email.com" method="POST">
-    <input type="text" name="name" placeholder="Your name"><br>
-    <input type="email" name="_replyto" placeholder="Your email"><br>
-    <textarea name="message" placeholder="Your message"></textarea><br>
-    <input type="submit" value="Send">
-</form>
+<br>
+<hr>
+<h2 class="centertext">Kontakt</h2>
+<p class="centertext">Du hast ein Anliegen, möchstest einen neuen Webauftritt oder möchstest mir einfach etwas mitteilen? Sende mir einfach eine E-Mail.</p>
+<a href="mailto:me@manuel.anrig@bluewin.ch" class="mailbtn">E-Mail Schreiben</a>
