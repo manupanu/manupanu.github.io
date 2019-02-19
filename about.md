@@ -53,4 +53,4 @@ permalink: /
 <hr>
 <h2 class="centertext">Kontakt</h2>
 <p class="centertext">Du hast ein Anliegen, möchstest einen neuen Webauftritt oder möchstest mir einfach etwas mitteilen? Sende mir einfach eine E-Mail.</p>
-<a href="mailto:me@manuel.anrig@bluewin.ch" class="mailbtn">E-Mail Schreiben</a>
+<a href="mailto:me@manuelanrig.ch" class="mailbtn">E-Mail Schreiben</a>
