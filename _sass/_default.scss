@@ -3,13 +3,22 @@
     text-align: center;
     font-size: 1.5em;
 }
-
-
+.centertext {
+    text-align: center;
+}
 
 body {
     font-family: 'Inconsolata', ;
     color: $iron;
     background-color: lightgrey;
+}
+
+td {
+    font-size: 20px;
+    line-height: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    vertical-align: text-top;
 }
 
 a {
