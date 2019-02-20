@@ -155,16 +155,22 @@ strong {
     font-size: 24px;
     color: $cloudy;
     list-style-type: none;
+    &:hover {
+        color: black;
+    }
 }
 
 .social-links__entry {
     display: inline-block;
     margin-left: 10px;
+    &:hover {
+        color: black;
+    }
 }
 
 /* =Titles */
 .page-title {
-    margin-top:100px;
+    margin-top:50px;
     margin-bottom:125px;
     text-align: center;
 }
@@ -227,7 +233,7 @@ strong {
 .explore {
     text-align: center;
     color: $cloudy;
-    margin-top: 140px;
+    margin-top: 70px;
 }
 
 .explore__devider {
