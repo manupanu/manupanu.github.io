@@ -11,9 +11,9 @@ permalink: /
 <p id="changeText" class="ichbin"></p>
 <p class="centertext">Ausserdem mag ich minimalismus, gute Musik, allerlei verschiedene Sportarten und Videospiele.</p>
 <hr>
-<h2 class="centertext">Steckbrief</h2>
+<h2 class="centertext steckbrief">STECKBRIEF</h2>
 
-<table align="center">
+<table align="center" class="steckbrief">
   <tr>
     <td><strong>Name:</strong></td>
     <td>Manuel Anrig</td> 

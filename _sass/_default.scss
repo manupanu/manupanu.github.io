@@ -1,4 +1,10 @@
 /* =Base */
+@font-face {
+    font-family: 'ManuelAnrig';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ManuelAnrig'), url('/assets/ManuelAnrig.ttf') format('truetype');
+  }
 .ichbin {
     text-align: center;
     font-size: 1.5em;
@@ -6,7 +12,9 @@
 .centertext {
     text-align: center;
 }
-
+.steckbrief{
+    font-family: 'ManuelAnrig';
+}
 hr { 
     display: block;
     margin-top: 0.5em;
