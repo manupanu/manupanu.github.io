@@ -5,6 +5,9 @@
     font-weight: normal;
     src: local('ManuelAnrig'), url('/assets/ManuelAnrig.ttf') format('truetype');
   }
+ul li a:hover {
+      text-decoration: line-through;
+}
 .ichbin {
     text-align: center;
     font-size: 1.5em;
