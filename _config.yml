@@ -6,7 +6,7 @@ description: >
   was mit Technik zu tun hat.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.manuelanrig.ch" # the base hostname & protocol for your site
+url: "http://www.manuelanrig.ch" # the base hostname & protocol for your site
 
 author:
   fullname: Manuel Anrig
